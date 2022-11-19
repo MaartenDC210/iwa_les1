@@ -1,0 +1,23 @@
+{
+  "name": "les1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "excersise1.js",
+  "scripts": {
+    "start": "node excersise1.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaartenDC210/iwa_les1.git"
+  },
+  "author": "mdecat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaartenDC210/iwa_les1/issues"
+  },
+  "homepage": "https://github.com/MaartenDC210/iwa_les1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

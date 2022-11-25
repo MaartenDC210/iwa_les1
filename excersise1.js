@@ -23,6 +23,6 @@ const calculateInput = (var1, var2, operationSymbol) => {
     }
 }
 
-const result = calculateInput(number1,number2,operation);
+const result = calculateInput(parseInt(number1),parseInt(number2),operation);
 console.log(result);
 
